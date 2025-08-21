@@ -65,10 +65,7 @@ Raw sockets are essential to **send custom ICMP requests** and **capture ICMP re
 import socket
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_ICMP)
-
-> The above code snippet creates a socket object sock to send ICMP requests and capture replies.
-
-
+# The above code snippet creates a socket object `sock` to send ICMP requests and capture replies.
 
 
 ---
@@ -144,10 +141,7 @@ reply_info = {
     "start_time": start_time,
     "reply_time": reply_time
 }
-
-> After receiving the reply and unpacking required fields, we store them in a dictionary for easy access.
-
-
+# After receiving the reply and unpacking required fields, we store them in a dictionary for easy access.
 
 
 ---
