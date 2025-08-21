@@ -1,13 +1,13 @@
 ---
-title: About
-icon: fas fa-info-circle
-order: 4
+title: "About Me"
+layout: page
+permalink: /about/
 ---
 
-Hi, I’m **Your Name** 👋  
-
+Hi, I’m **Melvin Jose** 👋  
 Welcome to my personal site!  
-I’m a developer who enjoys Python, web development, and writing about tech.  
 
-This site contains my blog, portfolio, and resume.
+This blog is for those who wants to learn networking.
+I think the best way to understand network is by implementing them.
+Python is best for prototyping.
 
