@@ -1,4 +1,9 @@
 ---
+title: "Understanding ICMP and TTL with Python"
+date: 2025-08-21
+categories: tutorial
+tags: [ICMP, TTL, Python, Networking]
+---
 
 # Understanding ICMP and TTL with Python
 
@@ -162,5 +167,3 @@ Mping/
 GitHub Link: mping project
 
 ---
-
-
