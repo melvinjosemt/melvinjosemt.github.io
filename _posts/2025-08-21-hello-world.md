@@ -2,7 +2,8 @@
 layout: post
 title: "Building a Custom Ping Tool with Python (ICMP & Raw Sockets)"
 date: 2025-08-22
-tags: [python, networking, icmp, ping, sockets]
+categories: [Blog, ICMP]
+tags: [python, networking, icmp]
 ---
 
 > To understand the following, basic knowledge of the **OSI Model** and **Python** is essential.
