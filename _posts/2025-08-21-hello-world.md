@@ -159,4 +159,4 @@ Mping/
 └── ping_stats.py
 ```
 
-🔗 **GitHub Repo:** [melvinjosemt/mping](https://github.com/melvinjosemt/mping)
+🔗 **GitHub Repo:** [melvinjosemt/myping](https://github.com/melvinjosemt/myping)
